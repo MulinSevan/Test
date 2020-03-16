@@ -1,0 +1,19 @@
+ numadh |   nom    | skipper 
+--------+----------+---------
+      3 | boucher  | non
+      4 | michal   | non
+      7 | frantz   | non
+      8 | colin    | non
+      9 | boulle   | non
+     10 | rondet   | oui
+     11 | garnier  | non
+     12 | bar      | non
+     13 | merlu    | oui
+     14 | crevette | non
+     15 | morue    | non
+     16 | saumon   | non
+     17 | limande  | non
+     18 | turbot   | non
+     19 | crabe    | non
+(15 rows)
+
